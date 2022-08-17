@@ -6,5 +6,5 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 <br><br>
-![preview](https://user-images.githubusercontent.com/98523060/177804489-ee631485-1802-412e-8a06-a380cf446b05.png)
+![preview]"(https://user-images.githubusercontent.com/98523060/185147764-93ad61ed-573c-4f4a-895f-7d3a0c82e8e5.png)
 
