@@ -1,5 +1,7 @@
 # Responsive Portfolio Website Fernando
 
+## My Portfolio is a platform for presenting a personal portfolio. It's a minimalist, responsive and modern webpage that highlights my professional projects and allows me to highlight what I can do for my target audience. It is built with HTML5, CSS3 and JavaScript. The homepage is an overview of my recent projects, with links to see the details of each one. It also includes sections on my knowledge, skills and contacts. It is optimized for all devices and browsers.
+
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
 - Includes a light and dark mode.
