@@ -27,8 +27,6 @@ My Portfolio é uma plataforma para apresentar um portfólio pessoal. É uma pá
 
 Neste projeto, você encontrará informações sobre minha educação, habilidades e experiência profissional, além de links para meus projetos e outros materiais que compartilhei.
 
-## Por que é importante?
-
 ## Conclusão
 
 Espero que meu portfólio ajude você a entender melhor quem sou eu, o que sei e o que posso fazer. Se você tiver alguma dúvida ou quiser me contratar para um projeto, entre em contato comigo.
